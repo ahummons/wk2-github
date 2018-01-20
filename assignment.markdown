@@ -3,20 +3,20 @@ Complete this simple survey in your text editor, in a new branch, and merge it b
 
 ## Your Name:
 
-*Replace with your answer*
+April Hummons
 
 ## What you like most about web design development
 
-*Replace with your answer*
+The ability to create web content.
 
 ## What you like least about web design and development
 
-*Replace with your answer*
+I am having a hard time  working in the command line. None of this was covered in my intro class.
 
 ## How do you see yourself using web design and development skills in your career?
 
-*Replace with your answer*
+I hope to use this skills to create and maintain a website that focuses on social justice issues.
 
 ## Your favorite (or most frequently used) website.
 
-*Replace with your answer*
+https://verysmartbrothas.theroot.com/
